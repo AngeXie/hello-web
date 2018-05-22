@@ -1,0 +1,43 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2018-05-08 14:39:52
+ * @version $Id$
+ */
+ .header{
+ 	background-color: #0F305D;
+ }
+ .search{
+ 	margin-top: 80px;
+ }
+ .searchbtn{
+ 	background-color: #0F305D;
+ 	color: #FFFFFF;
+ }
+ .rec-resource{
+ 	margin-top: 80px;
+ }
+ .rec-res-item{
+ 	margin-top: 20px;
+ }
+ .rec-res-item-name{
+ 	font-size: 20px;
+ 	color: #0F305D;
+ }
+ .rec-res-item-poster{
+ 	font-size: 10px;
+ 	margin-left: 20px;
+ 	margin-top: 8px;
+ 	color: #FE9689;
+ }
+ .rec-res-desrb{
+ 	margin-top: 10px;
+ 	color: #999;
+ }
+ .rec-res-url{
+ 	margin-top: 10px;
+ }
+ .splitline{
+ 	color: #ccc;
+ }

@@ -1,0 +1,126 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2018-05-07 10:19:28
+ * @version $Id$
+ */
+ .recommened-content{
+ 	background-color: #F2F2F2;
+ }
+ .header{
+ 	background-color: #F2F2F2;
+ }
+ .header .resource,.search,.loginBtn{
+ 	margin-top: 15px;
+ }
+ .search .col-md-2{
+ 	margin-top: 5px;
+ 	padding-left: 0px;
+ }
+ .carousel-inner img{
+      width: inherit;
+      height: 400px;
+ }
+ .carousel-caption a{
+ 	color:#fff;
+ }
+ .carousel-caption a:hover{
+ 	color: #ccc;
+ 	text-decoration: none;
+ }
+ .news .col-md-4 .row{
+ 	height: 200px;
+ }
+ .new-item-title{
+ 	display: block;
+ 	color: #F2F2F2;
+ 	font-weight: 600;
+ 	margin-top: 165px;
+ 	margin-left: 15px;
+ }
+ .news .new-item01{
+ 	border: 2px solid #F2F2F2;
+ 	padding: 0px;
+ 	cursor:pointer;
+ 	background-image: url(../image/news-item/item-01.jpg);
+ 	background-size: 100% 100%;
+ }
+ .news .new-item02{
+ 	border: 2px solid #F2F2F2;
+ 	padding: 0px;
+ 	cursor:pointer;
+ 	background-image: url(../image/news-item/item-02.png);
+ 	background-size: 100% 100%;
+ }
+ .news .news-show,.new-show *{
+ 	margin: 0px;
+ 	padding:0px;
+ }
+ .recommened-posts,.recommened-usrs{
+ 	padding-top: 10px;
+ }
+ .recommened-content{
+ 	padding-top: 20px;
+ 	padding-bottom: 20px;
+ }
+ .recommened-usr img{
+ 	width:70px;
+ 	height: 70px;
+ }
+ .rec-usrName{
+ 	margin-top: 40px;
+ }
+ .rec-usrFollow{
+ 	margin-top: 40px;
+ }
+ .rec-usrHead{
+ 	border: 2px solid #666;
+ 	border-radius: 50%;
+ }
+ .recommened-usr{
+ 	margin-top: 20px;
+ }
+ .rec-post{
+ 	margin-top: 20px;
+ }
+ .rec-post h4{
+ 	color: #0F305D;
+ } 
+ .rec-post-usrHead{
+ 	width: 50px;
+ 	height: 50px;
+	border-radius: 50%;
+	border: 1px solid #666;
+ }
+ .rec-post-usrName,.rec-post-date{
+ 	margin-top: 25px;
+ }
+ .rec-post-title{
+ 	margin-top: 8px;
+ }
+ .rec-post-title,.rec-post-detail{
+ 	padding-left: 20px;
+ 	padding-right: 20px;
+ }
+ .rec-content-load{
+ 	margin-top: 15px;
+ }
+ .footer{
+ 	border-top: 2px solid #0C0D0D;
+ 	background-color: #0F305D;
+ 	padding-bottom: 20px;
+ 	padding-top: 30px;
+ 	color: #FEF0C1;
+ }
+ .footer a{
+ 	color: #FEF0C1;
+ 	text-decoration: none;
+ }
+ .web-logo{
+ 	width: 200px;
+ 	height: 60px;
+ }
+
+
+

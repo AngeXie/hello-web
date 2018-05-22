@@ -1,0 +1,53 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2018-05-08 15:49:01
+ * @version $Id$
+ */
+ .header{
+ 	background-color: #0F305D;
+ }
+ .header img{
+ 	margin-top: 10px;
+ 	margin-bottom: 10px;
+ 	width: 200px;
+ 	height: 50px;
+ }
+ .login-form {
+ 	margin-top: 100px;
+ }
+ .login-form .form-group label{
+ 	color: #0F305D;
+ 	font-size: 25px;
+ }
+ .login-form .form-check-input{
+ 	margin-right: 5px;
+ }
+ .form-check-label{
+ 	font-size: 15px;
+ 	color: #666;
+ }
+ .login-form .row .row a,input{
+ 	width: inherit;
+ }
+ .login-form .row .row a{
+ 	color: #FEF0C1;
+ }
+ .login-form .row .row a:hover{
+ 	color: #fff;
+ }
+ .login-form .row .row{
+ 	margin-top: 20px;
+ }
+ .register-form{
+ 	margin-top: 50px;
+ }
+ .register-form .form-group label{
+ 	color: #0F305D;
+ }
+ .register-form .form-group .btn-danger{
+ 	color: #FFF0C2;
+ }
+
+

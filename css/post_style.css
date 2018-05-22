@@ -1,0 +1,75 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2018-05-15 17:15:29
+ * @version $Id$
+ */
+
+ .header{
+ 	background-color: #0F305D;
+ 	height: 30px;
+ }
+ .header .btn{
+ 	height: 30px;
+ 	font-size: 8px;
+ }
+ .title_r .btn{
+ 	margin-top: 10px;
+ }
+ .title_r{
+ 	padding-top: 20px;
+ 	padding-bottom: 10px;
+    margin-bottom: 30px;
+ 	border-bottom: 1px solid #ccc;
+ }
+ .detail_r{
+ 	margin-bottom: 40px;
+ }
+ .post-usr-info{
+ 	padding-bottom: 10px;
+ 	border-bottom: 1px solid #ccc;
+ 	margin-bottom: 10px;
+ }
+ .post-usr-info .usr-head img{
+	border-radius: 50%;
+	width: 80px;
+	height: 80px;
+ }
+ .post-usr-info .usr-name,.usr-follow{
+ 	margin-top: 40px;
+ }
+ .post-usr-info .usr-name{
+ 	color: #0F2F5C;
+ 	font-size: 20px;
+ }
+ .post-detail span{
+ 	color: #1B2B34;
+ 	font-size: 20px;
+ 	line-height: 35px;
+ }
+ .rec-usr-head img{
+ 	border-radius: 50%;
+ 	width: 40px;
+ 	height:40px;
+ }
+ .rec-item{
+ 	margin-top: 10px;
+ }
+ .rec-item-title a{
+ 	color: #0F305D;
+ 	font-size: 15px;
+ 	display: block;
+ 	margin-top: 20px;
+ }
+ .rec-item-title a:hover{
+ 	color: #FAC862;
+ }
+ .comment-usr-head img{
+ 	border-radius: 50%;
+ 	width: 60px;
+ 	height:60px;
+ }
+ .comment-btns{
+ 	margin-top: 10px;
+ }
